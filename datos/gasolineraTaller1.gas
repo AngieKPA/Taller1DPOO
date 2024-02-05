@@ -1,0 +1,13 @@
+tipo:reguladagold:45000:12.0
+tipo:Regular:12000:250.0
+tipo:Premium:60000:600.0
+tipo:Ultra:23000:50.0
+surtidor:Diana:reguladagold:0.0:Regular:0.0:Premium:0.0:Ultra:0.0
+surtidor:Andres:reguladagold:0.0:Regular:0.0:Premium:0.0:Ultra:0.0
+surtidor:Ivan:reguladagold:0.0:Regular:0.0:Premium:0.0:Ultra:0.0
+surtidor:Manuel:reguladagold:0.0:Regular:0.0:Premium:0.0:Ultra:0.0
+empleado:Diana:0
+empleado:Roberto:0
+empleado:Andres:0
+empleado:Ivan:0
+empleado:Manuel:0
